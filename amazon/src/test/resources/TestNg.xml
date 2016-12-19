@@ -6,7 +6,7 @@
 
 	<test name="testngPractice">
 		<packages>
-			<package name="com.quaatso.mavenDemo"></package>
+			<package name="com.quaatso.loginTest"></package>
 		</packages>
 	</test>
 
